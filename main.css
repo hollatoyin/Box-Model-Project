@@ -1,13 +1,13 @@
 body{
-background-color: #f1f5f9 ;
+background-color: #f1f5f9;
 }
 .card{
  background: #fff;
- padding: 20px;
+ padding: 35px;
  text-align: center;
- margin: 40px;
+ margin: 120px;
  max-width: 300px;
- border-radius: 5px;
+ border-radius: 8px;
  border: 1px solid transparent;
 }
 .card-1{
@@ -17,6 +17,7 @@ background-color: #f1f5f9 ;
  width: 40px;
  height: 40px;
  border-radius: 50%;
+ margin: auto;
 }
 .card-1 .icon{
  background: #ff69a6;
@@ -35,11 +36,19 @@ background-color: #f1f5f9 ;
  background: #ffe8f1;
  background-color: #ff69a6;
 }
+<<<<<<< HEAD
+.btn-pink{
+=======
 .btn-pink {
+>>>>>>> 45be8fc69a6589d09340478645a3b52cbb065ebb
  background: #ffe8f1;
  background-color: #ff69a6;
 }
 .btn .btn-blue{
+ background: #ecf4ff;
+ background-color: #68a3ff;
+}
+.btn-blue{
  background: #ecf4ff;
  background-color: #68a3ff;
 }
