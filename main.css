@@ -22,7 +22,7 @@ background-color: #f1f5f9 ;
  background: #ff69a6;
 }
 .text{
- line-height: 1.5;
+ line-height: 1.6;
  color: #64748b;
 }
 .btn{
@@ -32,6 +32,10 @@ background-color: #f1f5f9 ;
  padding: auto;
 }
 .btn .btn-pink{
+ background: #ffe8f1;
+ background-color: #ff69a6;
+}
+.btn-pink {
  background: #ffe8f1;
  background-color: #ff69a6;
 }
